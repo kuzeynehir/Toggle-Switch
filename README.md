@@ -2,7 +2,8 @@
 
 A visually appealing Toggle Switch component using images for On/Off states. Perfect for showcasing UI design in web projects.
 
-![Toggle Switch Preview](images/toggleswitch.png)
+![Toggle Switch Preview1](images/day.png)
+![Toggle Switch Preview2](images/night.png)
 
 ## Features
 
